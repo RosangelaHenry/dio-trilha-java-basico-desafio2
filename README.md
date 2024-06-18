@@ -1,14 +1,16 @@
 # dio-trilha-java-basico-desafio2
 Crie o Projeto: Desafio Controle de Fluxo Contador - Java
 
-Desafio de Controle de Fluxo - Exercitar sintaxe de controle de fluxo em Java e desenvolver um algoritmo contador através de parâmetros inseridos via terminal. Abaixo os requisitos para o desafio.
+# Desafio de Controle de Fluxo
+Exercitar sintaxe de controle de fluxo em Java e desenvolver um algoritmo contador através de parâmetros inseridos via terminal. Abaixo os requisitos para o desafio.
 
-DIO - Trilha Java Básico
+# DIO - Trilha Java Básico
 www.dio.me
 
-Autores
+# Autor
 Gleyson Sampaio
-Controle de Fluxo - Desafio
+
+# Controle de Fluxo - Desafio
 Vamos exercitar todo o conteúdo apresentado no módulo de Controle de Fluxo codificando o seguinte cenário.
 
 O sistema deverá receber dois parâmetros via terminal que representarão dois números inteiros, com estes dois números você deverá obter a quantidade de interações (for) e realizar a impressão no console (System.out.print) dos números incrementados, exemplo:
